@@ -3,7 +3,6 @@ package com.qa.exercises.garage;
 public class Runner {
 
 	public static void main(String[] args) {
-//		Car car1 = new Car(4, 3, 5);
 
 		Vehicle vehicle1 = new Car("car", 4, 5, 7, "silver");
 		Vehicle vehicle2 = new Motorbike("motorbike", 2, 0, 1);
